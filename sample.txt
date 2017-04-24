@@ -1,0 +1,13 @@
+﻿Camera 分辨率
+PictureSize 和 PreSize
+分辨率 1280*720
+
+getPictureSize 和 getPreviewSizeList
+
+华为GRA-TL00
+分辨率
+1812*1080
+
+
+
+
